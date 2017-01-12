@@ -4,7 +4,11 @@ $(document).ready( function() {
 
   e.preventDefault();
 
+<<<<<<< HEAD
   window.location.href = '../hackbag/Gtable.html';
+=======
+  window.location.href = '../hackbag/';
+>>>>>>> origin/master
 
   // Parse.initialize("ejDpZA5bF1CSLb7rN18isGvFMGRcrtVa0rQnPKft", "Pl5o8KxlbX8o236Q5ckbnAfd1Dv8ef6cWV5hrUTo");
 
